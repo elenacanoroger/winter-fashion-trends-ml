@@ -83,4 +83,4 @@ Estas mejoras permitirían comprobar si es posible obtener un modelo con mayor c
 
 En el informe completo se puede consultar todo el desarrollo del proyecto, incluyendo el análisis exploratorio, preparación de los datos, entrenamiento, métricas, matriz de confusión y conclusiones.
 
-**Autora:** Elena Cano Rogero
+**Autora:** Elena Cano Rogero realizado por parte del programa profesional data science y inteligencia artificial realizado en la Universidad Internacional de La Rioja 2025/2026
