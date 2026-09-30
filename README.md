@@ -79,8 +79,14 @@ Como continuación del proyecto sería interesante:
 
 Estas mejoras permitirían comprobar si es posible obtener un modelo con mayor capacidad de generalización y más utilidad en un escenario real de retail.
 
-##  Informe completo
+## 📄 Documentación del proyecto
 
-En el informe completo se puede consultar todo el desarrollo del proyecto, incluyendo el análisis exploratorio, preparación de los datos, entrenamiento, métricas, matriz de confusión y conclusiones.
+- [**Ver portfolio resumido (12 páginas)**](Portfolio_Machine_Learning_Fashion_Elena_Cano.pdf)  
+  Resumen visual del proyecto con las principales fases, resultados y conclusiones.
 
-**Autora:** Elena Cano Rogero realizado por parte del programa profesional data science y inteligencia artificial realizado en la Universidad Internacional de La Rioja 2025/2026
+- [**Ver proyecto completo (42 páginas)**](Proyecto_Completo_Machine_Learning_Fashion_Elena_Cano.pdf)  
+  Desarrollo completo del proyecto, incluyendo el análisis, preparación de los datos, modelado y evaluación.
+
+  **Autora:** Elena Cano Rogero  
+**Formación:** Programa Profesional en Inteligencia Artificial y Data Science – UNIR (Universidad Internacional de La Rioja)  
+**Curso:** 2025/2026
